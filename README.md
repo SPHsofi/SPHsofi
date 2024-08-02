@@ -4,9 +4,6 @@
   <h1>Hi there 👋 I`m Sofia</h1>
   <p>Frontend developer and db developer from Russia</p>
   <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://telegram.me/SP1Cu">
     <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
@@ -16,5 +13,18 @@
 
 ## My main skills
 <div>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,gitlab,github,figma,vue"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,gitlab,github,vite,figma"/>&nbsp;
 </div>
+
+## Other skills
+### Basic 
+- React
+- Vue
+- Webpack
+### Elementary
+- Python
+- Node.js
+- Angular
+- Sass
+- Docker
+- PHP
