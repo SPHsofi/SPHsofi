@@ -28,3 +28,17 @@
 - Sass
 - Docker
 - PHP
+
+## My projects
+### Logic tsck repositories 
+
+> These repositories contain sets of tasks and my solutions. The name of the repository corresponds to the topics of the tasks in it.
+
+- [core-js-strings](https://github.com/SPHsofi/core-js-strings)
+- [core-js-numbers](https://github.com/SPHsofi/core-js-numbers)
+- [core-js-dates](https://github.com/SPHsofi/core-js-dates)
+- [core-js-arrays](https://github.com/SPHsofi/core-js-arrays)
+- [core-js-objects](https://github.com/SPHsofi/core-js-objects)
+- [core-js-functions](https://github.com/SPHsofi/core-js-functions)
+- [core-js-promises](https://github.com/SPHsofi/core-js-promises)
+- [core-js-objects](https://github.com/SPHsofi/core-js-objects)
