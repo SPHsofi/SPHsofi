@@ -30,7 +30,7 @@
 - PHP
 
 ## My projects
-### Logic tsck repositories 
+### Logic task repositories 
 
 > These repositories contain sets of tasks and my solutions. The name of the repository corresponds to the topics of the tasks in it.
 
